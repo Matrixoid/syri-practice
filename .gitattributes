@@ -1,0 +1,2 @@
+genomes/GCF_943734735.2_idAnoGambNW_F1_1_genomic.fna filter=lfs diff=lfs merge=lfs -text
+genomes/GCF_016920705.1_AcolMOP1_genomic.fna filter=lfs diff=lfs merge=lfs -text

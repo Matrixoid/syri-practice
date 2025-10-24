@@ -1,0 +1,2 @@
+reference	Anopheles gambiae
+query	Anopheles coluzzii
