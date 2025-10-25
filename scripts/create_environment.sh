@@ -32,7 +32,7 @@ else
     case ${answer:0:1} in
     y|Y)
         echo "Creating the syri_env environment and activate it."
-        conda env create -f ../environment.yml
+        conda env create -f environment.yml
         conda activate syri_env
         echo "The syri_env environment has been successfully created and activated."
         ;;
