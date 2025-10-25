@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Remove the syri_env environment."
+conda deactivate
 conda remove --name syri_env --all
 
 echo "Remove all unnecessary files."
