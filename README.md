@@ -7,4 +7,7 @@
 5) Выгрузить координаты найденных перестроек в табличный вид.
 
 ## Запуск:
-Чтобы запустить автоматическое выполнение задания, нужно запустить скрипт [run.sh](https://github.com/Matrixoid/syri-practice/blob/master/scripts/run.sh).
+Чтобы запустить автоматическое выполнение задания, нужно запустить скрипт [run.sh](https://github.com/Matrixoid/syri-practice/blob/master/scripts/run.sh) из корня репозитория командой:
+```bash
+bash scripts/run.sh
+```
